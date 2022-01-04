@@ -9,10 +9,10 @@ and apply the best solution.
 Google Ads, Ezoic Ads, Mediavine Ads, Thrive leads, Lighthouse v.6.0 speed audits, 
 white-hat results, solutions even for the bad boys (speed-wise)  
 e.g. extreme cases with bad-coded plugins/themes: 
-<a href="https://www.ergoseo.com/shop/product/fast-wp-bakery-90/"WP Bakery</a> page builder, Thrive Architect/Thrive themes, etc. 
+<a href="https://www.ergoseo.com/shop/product/fast-wp-bakery-90/">WP Bakery</a> page builder, Thrive Architect/Thrive themes, etc. 
 
 - Speed Optimization projects: https://youtu.be/cXNCsmCmuv4 
-or flipbook: https://www.flipbookpdf.net/web/site/5bf45d34b0640b5c55ca395e720cbdaea966e168202112.pdf.html 
+or <a href="https://www.flipbookpdf.net/web/site/5bf45d34b0640b5c55ca395e720cbdaea966e168202112.pdf.html">flipbook</a>:  
 or PDF http://bestspeed.cc/top
 
 - <a href="https://www.ergoseo.com/">Core Web Vitals</a> projects: https://youtu.be/9kE63w1IRQ4 
