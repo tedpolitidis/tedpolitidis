@@ -1,19 +1,32 @@
-- 👋 Hi, this is Ted, Seasoned SEO w/ 13 yrs in the industry.
+- 👋 Hi, this is Ted, Seasoned White Hat SEO and Accredited Website Speed Optimizer and Security Expert with 14 yrs experience in the industry. 
 
-- <a href="https://www.ergoseo.com/slow-wordpress-solution.html">WordPress</a> solutions for 90+ Speed Score. 
-60+ WordPress sites already optimized w/ 100% success rate.
+- Core Web Vitals Solutions;
+- Unreal!! WordPress 90+ Speed;
+- Search Console Fixes;
+- Traffic Recovery;
+- Security Audits, Malware - Hacked Pages Cleanup.
 
-- I can easily read and interpret insights from speed reports 
-and apply the best solution.
-- Solutions: <a href="https://www.ergoseo.com/grigoro-woocommerce.html">Woocommerce</a>, Functions, Plugins, Tweaks, Advanced Custom Fields, 
-Google Ads, Ezoic Ads, Mediavine Ads, Thrive leads, Lighthouse v.6.0 speed audits, 
-white-hat results, solutions even for the bad boys (speed-wise)  
-e.g. extreme cases with bad-coded plugins/themes: 
-<a href="https://www.ergoseo.com/shop/product/fast-wp-bakery-90/">WP Bakery</a> page builder, Thrive Architect/Thrive themes, etc. 
+Speed fixes completed in 2-4 days (blanket optimization, not page-per-page fixes).
+ 
+100+ WordPress sites have already been optimized w/ a 100% success rate. I'm the guy that can handle heavy installations and complex cases where in-depth technical knowledge is needed.
 
-- Speed Optimization projects: https://youtu.be/cXNCsmCmuv4 
-or <a href="https://www.flipbookpdf.net/web/site/5bf45d34b0640b5c55ca395e720cbdaea966e168202112.pdf.html">flipbook</a>:  
-or PDF http://bestspeed.cc/top
+Ι keep up a list of 500+ WP installations to monitor for speed changes and for competitive intelligence.
 
-- <a href="https://www.ergoseo.com/">Core Web Vitals</a> projects: https://youtu.be/9kE63w1IRQ4 
+Top Results that can't be matched by people who simply install caching plugins. Even if an XYZ freelancer delivers a high-performance website, it will probably last for one week but it won't last for the first month and won’t get verified by the Google Search Console. This is a method that guarantees results.
+
+
+========
+Top Results
+========
+Speed Optimization results: https://ergoseo.com/speed_2023.pdf
+
+Client Testimonials: https://ergoseo.com/testimonials.pdf
+
+IG: https://www.instagram.com/corewebvitalsfixer/
+
+Woocommerce sped up: https://pagespeed.web.dev/analysis/https-weltentanzer-com/ktl4p24mfl?form_factor=mobile
+
+Woocommerce Checkout page optimized to the full-speed extent: https://ergoseo.com/speed-results/picture.php?/139/category/7
+
+4 
 or PDF: http://bestspeed.cc/cwv
