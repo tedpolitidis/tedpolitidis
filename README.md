@@ -28,5 +28,4 @@ Woocommerce sped up: https://pagespeed.web.dev/analysis/https-weltentanzer-com/k
 
 Woocommerce Checkout page optimized to the full-speed extent: https://ergoseo.com/speed-results/picture.php?/139/category/7
 
-4 
-or PDF: http://bestspeed.cc/cwv
+web: https://ergoseo.com/
